@@ -1,0 +1,8 @@
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\RpxDA\bin\Release\RpxDA.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\RpxDA\bin\Release\RpxDA.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\RpxDA\bin\Release\UtilityLibrary.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\RpxDA\bin\Release\MySql.Data.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\RpxDA\bin\Release\UtilityLibrary.pdb
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\RpxDA\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\RpxDA\obj\Release\RpxDA.dll
+C:\Users\wspaetzel\Documents\Visual Studio 2008\Projects\CastRoller\RpxDA\obj\Release\RpxDA.pdb
