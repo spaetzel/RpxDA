@@ -1,7 +1,7 @@
 ﻿/******************************************************************************
- * PostRankSharp 1.0
+ * RPXDA 1.0
  * Copyright 2008 William Spaetzel
- * Visit http://spaetzel.com/postranksharp
+ * Visit http://spaetzel.com/rpxda
  * 
  * This code is relased under the Creative Commons Attribution 3.0 License
  * http://creativecommons.org/licenses/by/3.0/
